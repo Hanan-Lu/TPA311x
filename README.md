@@ -10,10 +10,10 @@
 
 # 实物图
 
-![PCBA图](.\Picture\TPA3116 PCBA.jpg)
-![内部装配图](.\Picture\TPA3116-ASM-Int.jpg)
-![前面板](.\Picture\TPA3116-ASM-Front.jpg)
-![后面板](.\Picture\TPA3116-ASM-Back.jpg)
+![PCBA图](./Picture/TPA3116 PCBA.jpg)
+![内部装配图](./Picture/TPA3116-ASM-Int.jpg)
+![前面板](./Picture/TPA3116-ASM-Front.jpg)
+![后面板](./Picture/TPA3116-ASM-Back.jpg)
 
 # 存在的问题
 
